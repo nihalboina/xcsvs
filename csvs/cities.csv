@@ -1,0 +1,2 @@
+,id,name,iso3,iso2,numeric_code,phone_code,capital,currency,currency_name,currency_symbol,tld,native,region,region_id,subregion,subregion_id,nationality,timezones,latitude,longitude,emoji,emojiU
+0,199,Singapore,SGP,SG,702,65,Singapur,SGD,Singapore dollar,$,.sg,Singapore,Asia,3.0,South-Eastern Asia,13.0,Singaporean,"[{zoneName:'Asia\/Singapore',gmtOffset:28800,gmtOffsetName:'UTC+08:00',abbreviation:'SGT',tzName:'Singapore Time'}]",1.36666666,103.8,🇸🇬,U+1F1F8 U+1F1EC
